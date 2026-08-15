@@ -1,0 +1,24 @@
+# Visual Studio cache
+.vs/
+*.suo
+*.user
+*.userosscache
+*.slnx
+*.wsuo
+*.dtbcache.v2
+*.sqlite
+
+# Build output
+bin/
+obj/
+Debug/
+Release/
+
+# Cache and indexing
+FileContentIndex/
+DesignTimeBuild/
+project.nuget.cache
+project.assets.json
+
+# Logs
+*.log
